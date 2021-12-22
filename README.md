@@ -26,7 +26,7 @@ First, run the IPXwrapper config from the Lutis manager - by selecting Total Ann
   - Set Network Number to 00:00:00:01
   - Node Number will be autopopulated
   
-  - Check Enable Windows 95 SO_BROADCAST but
+  - Check Enable Windows 95 SO_BROADCAST
    - Check Automatically create Windows Firewall exceptions
 
 #### Wine config:
